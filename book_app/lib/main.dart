@@ -118,6 +118,8 @@ class MyApp extends StatelessWidget {
             categorySection,
             categoryFour,
             categorySection,
+            categoryFour,
+            categorySection,
           ],
         ),
       ),
