@@ -30,8 +30,8 @@ List<Cs_Books> booklist =[
            cognitive science, psychology, 
            and sociology, and stresses a principled approach to interactive systems design that fits a software engineering environment.''',
     imageurl: 'https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQPV3mKjnUXxIR4iYOv-m6Rdtr-rxo9IC69oeOqmXGFwvi47LN', 
-    author: 'By Alan Dix & Janet Finlay',
-    edition: '4th'),
+    author: 'By: Alan Dix & Janet Finlay',
+    edition: '4th Edition'),
  
   Cs_Books(
     title: 'Artificial Intelligence', 

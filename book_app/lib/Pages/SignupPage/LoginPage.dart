@@ -53,12 +53,12 @@ class SignInPage extends StatelessWidget {
               children: <Widget>[
                 ButtonTheme(
                   height: 50,
-                  disabledColor: Color(0xFF083663),
+                  //disabledColor: Color(0xFF083663),
                   child: RaisedButton(
                     onPressed: () {
                       Navigator.push(
                         context,
-                        MaterialPageRoute(builder: (context) => const MyApp()),
+                        MaterialPageRoute(builder: (context) => const Home()),
                       );
                     },
                     disabledElevation: 4.0,
